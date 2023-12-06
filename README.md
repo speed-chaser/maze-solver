@@ -12,11 +12,11 @@ Maze Solver uses the Tkinter library for its graphical interface, which is inclu
 
 ### Downloading the Program
 
-You can download the `maze_solver.py` file directly or clone it from a repository if it's available online.
+You can download the `maze_solver.py` and/or `maze_with_canvas.py` file directly or clone it from this repository.
 
 ### Running Maze Solver
 
-To run the program, open your command line or terminal and navigate to the directory containing `maze_solver.py`. Then, execute the program by typing:
+To run the program, open your command line or terminal and navigate to the directory containing `maze_solver.py` and `maze_with_canvas.py`. Then, execute the program by typing:
 
 CLI version: 
 ```bash
